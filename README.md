@@ -1,1 +1,1 @@
-# Template for backend course
+# For backend course
